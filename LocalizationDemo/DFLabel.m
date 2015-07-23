@@ -12,7 +12,7 @@
 
 
 - (void)drawRect:(CGRect)rect {
-    NSString *text = NSLocalizedStringWithDefaultValue([self text], nil, [NSBundle mainBundle], [self text], EMPTY_STRING);
+    NSString *text = NSLocalizedStringWithDefaultValue([self text], nil, [NSBundle mainBundle], [self text], @"");
     if (self.attributedText && [[self text] length] > 0) {
         
         NSDictionary *attributes = [(NSAttributedString *)self.attributedText attributesAtIndex:0
