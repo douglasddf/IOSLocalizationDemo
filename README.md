@@ -4,11 +4,6 @@ Demonstrates an approach to internationalization use with centralized files.
 You can use a strategy to keep your XIBs or Storyboards in single file and locate visual 
 components them on demand, programmatically making.
 
-I created a demo project and put on my github:
-
- - https://github.com/douglasddf/IOSLocalizationDemo
-
-
 I believe that with a few steps you can assess whether the strategy is valid for what you need:
 
 - Configure your project in the languages you want to support;
