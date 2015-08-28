@@ -50,6 +50,8 @@ General helps:
 - [http://www.raywenderlich.com/64401/internationalization-tutorial-for-ios-2014][10]
 - [http://www.appcoda.com/ios-programming-tutorial-localization-apps/][11]
 
+### An article tutorial (in portuguese)
+<script async src="https://static.medium.com/embed.js"></script><a class="m-story" data-collapsed="true" href="https://medium.com/@douglasddf/language-localization-em-projetos-ios-2bbfa8c4d5df">Language Localization em projetos iOS</a>
 
   [1]: http://i.stack.imgur.com/yioMS.png
   [2]: http://i.stack.imgur.com/yioMS.png
